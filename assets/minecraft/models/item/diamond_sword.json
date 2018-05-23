@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/magic_axe"
+    },
+    "overrides": [
+        {"predicate": {"damage": 0.001},"model": "item/ocean_sword"},
+        {"predicate": {"damage": 0.006},"model": "item/dwarven_sword"},
+        {"predicate": {"damage": 0.011},"model": "item/royal_sword"},
+        {"predicate": {"damage": 0.016},"model": "item/prism_sword"},
+        {"predicate": {"damage": 0.021},"model": "item/feathered_sword"},
+        {"predicate": {"damage": 0.026},"model": "item/helix_sword"},
+        {"predicate": {"damage": 0.031},"model": "item/razor_sword"},
+        {"predicate": {"damage": 0.036},"model": "item/gilded_sword"},
+        {"predicate": {"damage": 0.041},"model": "item/icicle_sword"},
+        {"predicate": {"damage": 0.046},"model": "item/slime_hammer"},
+        {"predicate": {"damage": 0.051},"model": "item/lunar_sword"},
+        {"predicate": {"damage": 0.056},"model": "item/crimson_axe"},
+        {"predicate": {"damage": 0.061},"model": "item/obsidian_dagger"},
+        {"predicate": {"damage": 0.066},"model": "item/mirror_sword"},
+        {"predicate": {"damage": 0.071},"model": "item/magic_mirror"}
+    ]
+}
